@@ -3,6 +3,7 @@
 Several links to take inspiration from:
 
 ## Similar projects
+- https://www.sparkfun.com/tutorials/51
 - https://github.com/hnesland/aselektriskbureau
 - https://logicethos.com/blog/pitelephone-raspberry-pi-retro-dial-phone/
 - https://www.instructables.com/id/Raspberry-Pi-in-Rotary-Phone/
@@ -13,5 +14,4 @@ Several links to take inspiration from:
 - https://www.instructables.com/id/Build-a-Battery-Powered-Amp-for-an-old-Carbon-Mic/
 
 ## Ringer
-- https://www.sparkfun.com/tutorials/51
 - https://www.sparkfun.com/tutorials/50
