@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:bigrigio
+LIBS:bigrigio-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -107,6 +108,17 @@ F 1 "microphone" H 2400 2350 60  0000 C CNN
 F 2 "" H 2400 2600 60  0000 C CNN
 F 3 "" H 2400 2600 60  0000 C CNN
 	1    2400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SN754410 U?
+U 1 1 5CE9AB26
+P 7750 2500
+F 0 "U?" H 7375 3050 60  0000 C CNN
+F 1 "SN754410" H 8050 2000 60  0000 C CNN
+F 2 "" H 7750 2500 60  0000 C CNN
+F 3 "" H 7750 2500 60  0000 C CNN
+	1    7750 2500
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
