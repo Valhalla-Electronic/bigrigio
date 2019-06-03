@@ -14,6 +14,7 @@ device-mapper
 dhcpcd
 dialog
 diffutils
+dnsmasq
 dropbear
 e2fsprogs
 fakeroot
@@ -30,6 +31,7 @@ glibc
 grep
 gzip
 haveged
+hostapd
 inetutils
 iproute2
 iputils
@@ -37,6 +39,7 @@ jfsutils
 less
 libtool
 licenses
+lighttpd
 linux-firmware
 linux-raspberrypi
 logrotate
@@ -56,6 +59,7 @@ pacman-mirrorlist
 patch
 pciutils
 perl
+php-cgi
 pkgconf
 procps-ng
 psmisc
@@ -77,6 +81,7 @@ usbutils
 util-linux
 vi
 vim
+vnstat
 wget
 which
 wireless_tools
